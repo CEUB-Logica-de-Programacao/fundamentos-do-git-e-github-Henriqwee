@@ -1,0 +1,11 @@
+Pegar B
+Ler B
+Identificar S
+Identificar HF 
+Verificar HC 
+Se 
+HC=<HF-30 não permitir entrada e informar que a sala não esta disponível 
+Se 
+HC>=HF+30 não permitir entrada e informar que a entrada não é mais permitida 
+Se 
+HC>=HF-30 e HC<=H+30 encaminhar o cliente para a sala
