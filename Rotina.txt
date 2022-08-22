@@ -4,17 +4,51 @@ Levantar da cama
 
 Ir ao banheiro
 
+Fechar a porta do banheiro
+
 Lavar o rosto e escovar os dentes
 
 Tomar banho
 
+Me secar
+
 Se vestir para sair para a faculdade às 7:40
 
-Voltar da faculdade 11h
+Sair do banheiro
+
+Sair de casa
+
+Esperar a carona
+
+Entrar no carro
+
+Sair do carro quando chegar na faculdade
+
+Entrar na faculdade
+
+Entrar na sala de aula
+
+Assistir a aula
+
+Sair da aula às 10:50
+
+Sair da faculdade
+
+Encontro minha carona
+
+Entro no carro
+
+Sair do carro quando chegar em casa
+
+Entrar em casa
+
+Verificar se tem almoço
 
 Se tiver almoço ficar livre até 12:30h
 
-se não tiver almoço fazer o almoço
+Se não tiver almoço fazer o almoço
+
+Alomçar
 
 13h estudar/fazer trabalho da faculdade
 
